@@ -1,4 +1,4 @@
-# ft-unique_ptr
+# Smart Pointer
 
 A fully functional, header-only implementation of C++'s `std::unique_ptr` — written from scratch for learning and exploration.
 
